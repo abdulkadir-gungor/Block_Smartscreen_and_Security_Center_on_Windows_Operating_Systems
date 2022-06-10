@@ -44,7 +44,7 @@ Video and Screenshots of the Vulnerability
 &emsp; A simple video has been posted on Youtube to demonstrate the vulnerability. 
 It can be viewed at the link below.
 
-&emsp; **[Youtube Link]** https://youtu.be/_rQrLeDaFSU
+&emsp; **[Youtube Link]** https://www.youtube.com/watch?v=_rQrLeDaFSU
 
 
 **[ScreenShot 1]**
