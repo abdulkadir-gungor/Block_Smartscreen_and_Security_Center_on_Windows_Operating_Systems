@@ -1,5 +1,5 @@
 # Block Smartscreen and Security Center for Windows
-&emsp; On the evening of May 29, I made the necessary notifications to the "Microsoft Security Center" [ VULN-068278].
+&emsp; On the evening of May 29 (2022), I made the necessary notifications to the "Microsoft Security Center" [ VULN-068278].
 However, according to the reply received by e-mail on June 10, "We determined that an immediate fix will not be released for the reported behavior. It was recommended to hardened because the relevant vulnerability requires **Administrator authority**. We have closed this case" .
 For this reason, I wanted to warn users by posting this vulnerability or weakness in my account on github.
 
