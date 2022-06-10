@@ -62,7 +62,10 @@ It can be viewed at the link below.
 Exploiting the Vulnerability
 ---
 &emsp; As an example, a script has been written to show how a malware can exploit this vulnerability.
-The **"block.py"** script has been added to the files as an example in order to represent what we call the first stage in malware attacks
+The **"block.py"** script has been added to the files as an example in order to represent what we call the first stage in malware attacks.
+It primarily blocks Smartscreen and Windows Security from working.
+Then it runs the relevant malicious malware
+
 
 **block.py**
 ```
