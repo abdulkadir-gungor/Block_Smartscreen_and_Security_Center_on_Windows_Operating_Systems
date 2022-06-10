@@ -76,7 +76,7 @@ Additional information on malwares
 &emsp;
 
 ![malware_1](https://user-images.githubusercontent.com/71177413/173053242-7229231b-fad8-4716-90ee-d8572d5c74a6.JPG)
-
+[jpg source: From the training notes, Abdulkadir GÜNGÖR]
 
 **B) Types of Malware**
 &emsp;
@@ -89,6 +89,7 @@ Additional information on malwares
 &emsp;
 
 ![malware_3](https://user-images.githubusercontent.com/71177413/173053274-478c0e9f-67d0-4b93-b842-061c611fbde2.JPG)
+[jpg source: From the training notes, Abdulkadir GÜNGÖR]
 
 
 Disclaimer
