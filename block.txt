@@ -1,0 +1,16 @@
+#
+# Abdulkadir GÜNGÖR (abdulkadir_gungor@outlook.com)
+#  29/05/2022
+#
+
+block smartscreen and security center
+
+REG ADD "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\smartscreen.exe" /v Debugger /d "cmd.exe /C >null: 2>null:"
+REG ADD "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\securityhealthhost.exe" /v Debugger /d "cmd.exe /C >null: 2>null:"
+REG ADD "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\secHealthUI.exe" /v Debugger /d "cmd.exe /C >null: 2>null:"
+REG ADD "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\werFault.exe" /v Debugger /d "cmd.exe /C >null: 2>null:"
+
+
+"cmd.exe /C >null: 2>null:"
+
+Note: If desired, the same process can be done in other executable files that keep log records for forensic.
